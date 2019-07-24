@@ -1,2 +1,2 @@
 # PubHub-Project
-Java, Postgres SQl, 
+Java, Postgres SQl, Servelet
